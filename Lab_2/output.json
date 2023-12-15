@@ -1,0 +1,121 @@
+{
+    "Port_332572ca-bb5d-485a-bb21-660e90a3e508": {
+        "lat": "-23.13",
+        "lon": "-49.43",
+        "basic_container": 8,
+        "heavy_container": 12,
+        "refrigerated_container": 0,
+        "liquid_container": 0,
+        "ships": {
+            "ship_375e1c5d-a6f2-458d-934a-df37477e19cb": {
+                "fuel_left": "1000.00",
+                "basic_container": 0,
+                "heavy_container": 0,
+                "refrigerated_container": 0,
+                "liquid_container": 0
+            },
+            "ship_2548154c-9135-4346-87a6-eeaf9ce4e9c8": {
+                "fuel_left": "1000.00",
+                "basic_container": 0,
+                "heavy_container": 0,
+                "refrigerated_container": 0,
+                "liquid_container": 0
+            },
+            "ship_c21ba3c0-fd4f-4b68-951a-9ef903b298f0": {
+                "fuel_left": "1000.00",
+                "basic_container": 0,
+                "heavy_container": 0,
+                "refrigerated_container": 0,
+                "liquid_container": 0
+            },
+            "ship_ce52f7a8-16f1-4bea-be3a-0069ad13ed7b": {
+                "fuel_left": "1000.00",
+                "basic_container": 0,
+                "heavy_container": 0,
+                "refrigerated_container": 0,
+                "liquid_container": 0
+            }
+        }
+    },
+    "Port_fe194bf6-6b1f-4913-91ea-bd5fa13bd199": {
+        "lat": "47.32",
+        "lon": "-7.73",
+        "basic_container": 2,
+        "heavy_container": 16,
+        "refrigerated_container": 0,
+        "liquid_container": 0,
+        "ships": {
+            "ship_db04e17c-1e88-4322-bbed-0905dff05828": {
+                "fuel_left": "1000.00",
+                "basic_container": 0,
+                "heavy_container": 0,
+                "refrigerated_container": 0,
+                "liquid_container": 0
+            },
+            "ship_a7f69cd5-6bb3-4b6d-a285-e05cbbba25f5": {
+                "fuel_left": "1000.00",
+                "basic_container": 0,
+                "heavy_container": 0,
+                "refrigerated_container": 0,
+                "liquid_container": 0
+            },
+            "ship_1d0bfdf9-8c75-4580-9b4e-dbebd2ea36ce": {
+                "fuel_left": "1000.00",
+                "basic_container": 0,
+                "heavy_container": 0,
+                "refrigerated_container": 0,
+                "liquid_container": 0
+            }
+        }
+    },
+    "Port_f9207233-24e7-4e2e-9f79-f5a195f88299": {
+        "lat": "25.38",
+        "lon": "55.67",
+        "basic_container": 3,
+        "heavy_container": 10,
+        "refrigerated_container": 0,
+        "liquid_container": 0,
+        "ships": {}
+    },
+    "Port_8d40d731-4506-442e-b8cb-1ca1f5a89c6b": {
+        "lat": "-26.91",
+        "lon": "146.34",
+        "basic_container": 10,
+        "heavy_container": 6,
+        "refrigerated_container": 0,
+        "liquid_container": 0,
+        "ships": {
+            "ship_a821e4f2-70a7-413f-b05d-055b7309d276": {
+                "fuel_left": "1000.00",
+                "basic_container": 0,
+                "heavy_container": 0,
+                "refrigerated_container": 0,
+                "liquid_container": 0
+            }
+        }
+    },
+    "Port_7ecfb9b4-9124-481c-aa44-26e492859ea8": {
+        "lat": "76.50",
+        "lon": "-55.30",
+        "basic_container": 6,
+        "heavy_container": 15,
+        "refrigerated_container": 0,
+        "liquid_container": 0,
+        "ships": {
+            "ship_1c90fd00-7b83-4df1-aa0c-fdd783baf81d": {
+                "fuel_left": "1000.00",
+                "basic_container": 0,
+                "heavy_container": 0,
+                "refrigerated_container": 0,
+                "liquid_container": 0
+            },
+            "ship_f7243192-50d1-48c6-bf14-e75d87f82677": {
+                "fuel_left": "1000.00",
+                "basic_container": 0,
+                "heavy_container": 0,
+                "refrigerated_container": 0,
+                "liquid_container": 0
+            }
+        }
+    }
+}
