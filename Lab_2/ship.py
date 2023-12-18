@@ -1,7 +1,6 @@
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
 from uuid import uuid4
-
 from containers import HeavyContainer, BasicContainer, RefrigeratedContainer, LiquidContainer
 
 
