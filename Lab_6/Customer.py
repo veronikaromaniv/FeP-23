@@ -1,7 +1,7 @@
-from shemas.Inventory_Subsystem import *
-from shemas.Order_Process_Subsystem import *
-from shemas.Payment_Subsystem import *
-from shemas.Shipment_Subsystem import *
+from Inventory_Subsystem import *
+from Order_Process_Subsystem import *
+from Payment_Subsystem import *
+from Shipment_Subsystem import *
 import json
 
 
