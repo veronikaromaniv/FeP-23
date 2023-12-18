@@ -1,0 +1,30 @@
+{
+  "product_id": "1",
+  "price": 10,
+  "quantity": 2,
+  "cart_details": 50,
+  "customer_info": {
+    "name": "Alice Wonderland",
+    "address": "456 Wonderland Lane"
+  },
+  "shipping_address": "456 Wonderland Lane",
+  "provider_id": "FedEx",
+  "provider_info": {
+    "name": "FedEx",
+    "type": "Express"
+  },
+  "stock_items": [
+    {
+      "item_id": "1",
+      "quantity": 10
+    },
+    {
+      "item_id": "1002",
+      "quantity": 20
+    },
+    {
+      "item_id": "1003",
+      "quantity": 15
+    }
+  ]
+}
