@@ -1,5 +1,3 @@
-"""Holds details about port objects"""
-
 from abc import ABC, abstractmethod
 import haversine as hs
 from containers import BasicContainer, Container, HeavyContainer, RefrigeratedContainer, LiquidContainer
