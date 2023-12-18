@@ -1,7 +1,7 @@
 from fastapi import FastAPI, Request, HTTPException
-from schemas.BankInfo import BankInfo
-from schemas.BankCustomer import BankCustomer, PersonalInfo
-from schemas.Credit_Cart import GoldenCreditCard, CorporateCreditCard
+from BankInfo import BankInfo
+from BankCustomer import BankCustomer, PersonalInfo
+from Credit_Cart import GoldenCreditCard, CorporateCreditCard
 from cryptography.fernet import Fernet
 
 app = FastAPI()
